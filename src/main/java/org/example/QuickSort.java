@@ -1,5 +1,9 @@
 package org.example;
 
+// Source reference:
+// GeeksforGeeks - QuickSort Algorithm
+// https://www.geeksforgeeks.org/quick-sort-algorithm/
+
 // In class yeki az strategy haye sorting ma hast.
 // implements yani QuickSort gharardade SortingStrategy ro ghabool mikone.
 public class QuickSort implements SortingStrategy {

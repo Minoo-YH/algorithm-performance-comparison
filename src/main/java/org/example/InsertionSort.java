@@ -1,4 +1,7 @@
 package org.example;
+// Source reference:
+// GeeksforGeeks - Insertion Sort Algorithm
+// https://www.geeksforgeeks.org/insertion-sort-algorithm/
 // In class yeki az strategy haye sorting ma hast.
 // implements yani InsertionSort gharardade SortingStrategy ro ghabool mikone.
 public class InsertionSort implements SortingStrategy {
